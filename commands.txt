@@ -1,0 +1,4 @@
+cd "(Enter path)"
+python -m pip install boto3 
+python secrets.py
+python automatic_s3_uploader.py 
